@@ -14,7 +14,7 @@ fido.name = "Fido"
 puts fido.name 
 
 def bark
-  puts "woof!"
+  puts "Woof!"
 end
 end
 
